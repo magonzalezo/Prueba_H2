@@ -1,0 +1,7 @@
+insert into personas (primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, genero, fecha_nacimiento) values ('Test_1', 'Test_1', 'Test_1', 'Test_1', 'M', NOW());
+insert into personas (primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, genero, fecha_nacimiento) values ('Test_2', 'Test_2', 'Test_2', 'Test_2', 'F', NOW());
+insert into personas (primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, genero, fecha_nacimiento) values ('Test_3', 'Test_3', 'Test_3', 'Test_3', 'M', NOW());
+insert into personas (primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, genero, fecha_nacimiento) values ('Test_4', 'Test_4', 'Test_4', 'Test_4', 'F', NOW());
+insert into personas (primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, genero, fecha_nacimiento) values ('Test_5', 'Test_5', 'Test_5', 'Test_5', 'M', NOW());
+insert into personas (primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, genero, fecha_nacimiento) values ('Test_6', 'Test_6', 'Test_6', 'Test_6', 'F', NOW());
+insert into personas (primer_nombre, segundo_nombre, primer_apellido, segundo_apellido, genero, fecha_nacimiento) values ('Test_7', 'Test_7', 'Test_7', 'Test_7', 'M', NOW());
